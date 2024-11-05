@@ -1,10 +1,10 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: 'Data Engineer based in Shanghai. Looking for new career opportunities.'
+excerpt: 'Data Scientist based in Singapore. Looking for new career opportunities.'
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: # /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
@@ -22,7 +22,7 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Previous work experiences
 
-- **Machine Learning R&D Engineer** - Shanghai:  
+- **Senior Data Scientist** - OKX (Singapore):  
   I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
 
 - **Research Assistant** - Daejon (South-Korea):  
@@ -33,11 +33,11 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
+- **Graduate Exchange Program** - Charles University (Prague):  
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
-- **Master Of Engineering** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+- **Bachelor of Science** - Nanyang Technological University (Singapore):  
+  I graduated from Nanyang Technological University Singapore in May 2018, majoring in *Mathematics* and *Economics*.
 
 ---
 
@@ -52,18 +52,15 @@ Familiar with: **Java**
 | Language | Level  |
 |----------|--------|
 | English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Mandarin | Fluent |
+| Malay  | Proficient |
 
 ## CV
 
-Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
+Find attached the PDF version of my CVs:  [CV]({{ site.url }}/download/CV_english.pdf)  
 
-Update: 2020/01/13
+Update: 2024/11/06
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[lowweihong14@gmail.com](mailto:lowweihong14@gmail.com)_**
