@@ -9,12 +9,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Computer Vision
+## Dashboard - community projects
 
-- [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
-
-- [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
-- [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification): Implemented AlexNet CNN for image classification, on a set of given classes.
+- [**Covid19 Face Shield Group Dashboard**](https://lookerstudio.google.com/u/0/reporting/1aaae16a-b02e-4742-b2c7-b7d13e5f1dff/page/4qCLB): Developed a dashboard for a community-driven initiative to supply and track face shield donations for Covid-19 frontliners, enabling smooth coordination and impactful contributions.
 
 ## Time series
 
