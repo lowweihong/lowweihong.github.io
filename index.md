@@ -10,15 +10,9 @@ header:
 
 # About me
 
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
-
 ---
 
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
-
-You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
+*As a hands-on data scientist and problem-solving enthusiast, I am always eager to take on new technical challenges that allow me to learn and feed my curiosity. I have experience in NLP and machine learning, including developing and fine-tuning models, optimizing performance, and managing the lifecycle of ML applications. I've worked on projects involving multi-language translation using models like NLLB. I enjoy environments that require quick prototyping and innovative thinking, where I can transform complex data into practical insights, particularly in predictive modeling and data-driven strategies.*
 
 ## Previous work experiences
 
