@@ -32,8 +32,7 @@ Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate i
 - **Master of Science** - Georgia Tech (Atlanta)
   Current student in masters of sciences in computer sciences, specialising in machine learning. Expected graduation end of year 2025.
 
-- **Undergraduate Exchange Program** - Charles University (Prague):  
-  I studied abroad for a semester in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- **Undergraduate Exchange Program** - Charles University (Prague)
 
 - **Bachelor of Science** - Nanyang Technological University (Singapore):  
   I graduated from Nanyang Technological University Singapore in May 2018, majoring in *Mathematics* and *Economics*.
