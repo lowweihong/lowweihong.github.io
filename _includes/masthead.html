@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <image src="assets/favicon/favicon-96x96.png"> <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <image src="assets/favicon/favicon-96x96.png" height="24" width="24"> <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
