@@ -1,5 +1,5 @@
 ---
-title: 'Low Wei Hong'
+title: '<image src="assets/favicon/favicon-96x96.png"> Low Wei Hong </title>'
 layout: single
 author_profile: true
 excerpt: 'Data Scientist based in Singapore. Looking for new career opportunities.'
