@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me <image src="/images/man-technologist.png" height="50" width="50">
+# <image src="/images/man-technologist.png" height="30" width="30"> About me
 
 Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate in any research opportunity to advance my expertise in Natural Language Processing (NLP)
 
