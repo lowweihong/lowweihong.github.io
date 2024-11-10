@@ -2,10 +2,10 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Blog"
-    url: /blog/
+  - title: "Blog (Medium)"
+    url: https://medium.com/@lowweihong
   - title: "About"
-    url: https://rafaelcartenet.github.io
+    url: https://lowweihong.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
