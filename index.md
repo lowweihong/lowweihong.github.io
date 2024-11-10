@@ -18,15 +18,11 @@ Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate i
 
 ## Previous work experiences
 
-- **Senior Data Scientist** - OKX (Singapore):
-  
+- **Senior Data Scientist** - OKX (Singapore):  
   At OKX, I focused on rapid prototyping and stakeholder management, building a centralized web crawling platform with Docker to streamline data pipelines. I developed a machine translation system supporting 13 language pairs on Alicloud's PAI platform, reducing vendor costs by 35%. Additionally, I created data-driven dashboards on Alicloud to provide clear insights through effective visualizations.
 
 - **NLP Data Scientist** - Shopee (Singapore):  
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
-
-- **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
 
 ## Education
 
