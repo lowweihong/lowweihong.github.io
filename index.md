@@ -4,11 +4,13 @@ layout: single
 author_profile: true
 excerpt: 'Data Scientist based in Singapore. Looking for new career opportunities.'
 header:
-  overlay_image: # /images/paris.jpg
+  overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
+
+Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate in any research opportunity to advance my expertise in Natural Language Processing (NLP)
 
 ---
 
@@ -16,10 +18,10 @@ header:
 
 ## Previous work experiences
 
-- **Senior Data Scientist** - OKX (Singapore):  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+- **Senior Data Scientist** - OKX (Singapore):
+  Throughout my tenure with OKX, I focused on quick prototyping, and stakeholder management. I build a cetralised web crawling platform with Docker that ensure data pipeline from external sources to be streamlined and no delay. I actively communicated with stakeholders on the requirements, managing end-to-end delivery of machine learning systems. Throughout my 2 years tenure, I develiered a machine translation systems that support 13 different language pair with the PAI platform on Alicloud, this result in a significant cost reduction of 35% of existing vendor costs. I am also capable with my analytical skills by designing clear, informative dashboards that interpret data and create meaningful visualizations on Alicloud's Dashboard.
 
-- **Research Assistant** - Daejon (South-Korea):  
+- **NLP Data Scientist** - Shopee (Singapore):  
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
 
 - **Software Engineer Intern** - Paris:  
@@ -27,8 +29,11 @@ header:
 
 ## Education
 
-- **Graduate Exchange Program** - Charles University (Prague):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- **Master of Science** - Georgia Tech (Atlanta)
+  Current student in masters of sciences in computer sciences, specialising in machine learning. Expected graduation end of year 2025.
+
+- **Undergraduate Exchange Program** - Charles University (Prague):  
+  I studied abroad for a semester in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
 - **Bachelor of Science** - Nanyang Technological University (Singapore):  
   I graduated from Nanyang Technological University Singapore in May 2018, majoring in *Mathematics* and *Economics*.
@@ -37,9 +42,9 @@ header:
 
 ## Programming Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Python, Tensorflow, Apache Spark, Torch, Scikit-Learn, Matlab, SQL, bash, Git, AliCloud, AWS.**
 
-Familiar with: **Java**
+Familiar with: **C/C++, javascript, Docker**
 
 ## Languages
 
