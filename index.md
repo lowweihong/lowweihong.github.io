@@ -19,7 +19,8 @@ Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate i
 ## Previous work experiences
 
 - **Senior Data Scientist** - OKX (Singapore):
-  Throughout my tenure with OKX, I focused on quick prototyping, and stakeholder management. I build a cetralised web crawling platform with Docker that ensure data pipeline from external sources to be streamlined and no delay. I actively communicated with stakeholders on the requirements, managing end-to-end delivery of machine learning systems. Throughout my 2 years tenure, I develiered a machine translation systems that support 13 different language pair with the PAI platform on Alicloud, this result in a significant cost reduction of 35% of existing vendor costs. I am also capable with my analytical skills by designing clear, informative dashboards that interpret data and create meaningful visualizations on Alicloud's Dashboard.
+  
+  At OKX, I focused on rapid prototyping and stakeholder management, building a centralized web crawling platform with Docker to streamline data pipelines. I developed a machine translation system supporting 13 language pairs on Alicloud's PAI platform, reducing vendor costs by 35%. Additionally, I created data-driven dashboards on Alicloud to provide clear insights through effective visualizations.
 
 - **NLP Data Scientist** - Shopee (Singapore):  
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
