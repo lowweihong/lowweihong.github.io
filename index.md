@@ -10,7 +10,7 @@ header:
 
 # <image src="/images/man-technologist.png" height="30" width="30"> About me
 
-Current Masters Students in Georgia Tech, Atlanta. I am aspired to participate in any research opportunity to advance my expertise in Natural Language Processing (NLP)
+I am a current Master's student at Georgia Tech, Atlanta, and I am eager to participate in research opportunities to enhance my analytical skills and deepen my expertise in Natural Language Processing, particularly its applications in social media.
 
 ---
 
