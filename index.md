@@ -38,7 +38,7 @@ I am a current Master's student at Georgia Tech, Atlanta, and I am eager to part
 
 ## Programming Skills
 
-Proficient with: **Python, Tensorflow, Apache Spark, Torch, Scikit-Learn, Matlab, SQL, bash, Git, AliCloud, AWS.**
+Proficient with: **Python, Tensorflow, Apache Spark, Torch, Scikit-Learn, Kafka, Matlab, SQL, bash, Git, AliCloud, AWS.**
 
 Familiar with: **C/C++, javascript, Docker**
 
