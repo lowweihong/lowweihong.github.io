@@ -22,7 +22,7 @@ I am a current Master's student at Georgia Tech, Atlanta, and I am eager to part
   At OKX, I focused on rapid prototyping and stakeholder management, building a centralized web crawling platform with Docker to streamline data pipelines. I developed a machine translation system supporting 13 language pairs on Alicloud's PAI platform, reducing vendor costs by 35%. Additionally, I created data-driven dashboards on Alicloud to provide clear insights through effective visualizations.
 
 - **NLP Data Scientist** - Shopee (Singapore):  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
+  At Shopee, I worked on improving platform integrity by detecting seller behaviors such as the repetitive use of different brand names to artificially boost product visibility. Additionally, I fine-tuned multimodal models (*ALBEF* and *CLIP*), text models (*CNN*, *BERT*, *fasttext*) to classify vast amounts of product listings into appropriate categories, enhancing user experience and streamlining platform operations.
 
 ## Education
 
