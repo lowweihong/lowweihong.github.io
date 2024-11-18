@@ -10,15 +10,14 @@ header:
 ---
 
 ## NLP
+- **Machine Translation**: Developed a multilingual machine translation model using Python, incorporating advanced tokenization techniques such as language-specific tokenization and padding strategies. Implemented custom data augmentation strategies and optimized the model for handling multiple target languages efficiently, leveraging meta's [NLLB (No Language Left Behind)](https://ai.meta.com/research/no-language-left-behind/) framework. 
 
-- [**Machine Translation**]: Developed a multilingual machine translation model using Python, incorporating advanced tokenization techniques such as language-specific tokenization and padding strategies. Implemented custom data augmentation strategies and optimized the model for handling multiple target languages efficiently, leveraging meta's [NLLB (No Language Left Behind)](https://ai.meta.com/research/no-language-left-behind/) framework. 
-
-- [**Social Media Hot Topic Discovery**]: In this project, I developed a data pipeline for scraping and analyzing decentralized application (dApp) data from sources like [DeFi Llama](https://defillama.com/) and [DappRadar](https://dappradar.com/). I created scripts for data extraction, transformation, and loading (ETL), as well as data analysis functions to calculate statistics and identify trends in the blockchain ecosystem. Leveraging ChatGPT API for identifying trending projects from tweets by crypto experts, to provide insights into the latest hot topics in the decentralized finance space.
+- **Social Media Hot Topic Discovery**: In this project, I developed a data pipeline for scraping and analyzing decentralized application (dApp) data from sources like [DeFi Llama](https://defillama.com/) and [DappRadar](https://dappradar.com/). I created scripts for data extraction, transformation, and loading (ETL), as well as data analysis functions to calculate statistics and identify trends in the blockchain ecosystem. Leveraging ChatGPT API for identifying trending projects from tweets by crypto experts, to provide insights into the latest hot topics in the decentralized finance space.
 
 - [**HatefulMeme challenge**](https://github.com/lowweihong/meme-challenge): In this project, I worked on detecting harmful content in multimodal datasets, inspired by challenges like Meta's Hateful Memes. The key challenge was aligning text and image data to capture subtle, context-sensitive relationships. I tackled this by integrating advanced NLP and computer vision techniques for cohesive analysis.
 
 ## Computer Vision
-- [**Identidy Card Classification**]: Developed an automated image processing system for OCR and face detection using PaddleOCR and EasyOCR. Integrated with Kafka for message handling, the system classifies and validates ID documents, ensuring accurate text extraction and face verification. Implemented utility functions and deployment scripts to streamline document verification workflows.
+- **Identidy Card Classification**: Developed an automated image processing system for OCR and face detection using PaddleOCR and EasyOCR. Integrated with Kafka for message handling, the system classifies and validates ID documents, ensuring accurate text extraction and face verification. Implemented utility functions and deployment scripts to streamline document verification workflows.
 
 ## Dashboard - community projects
 
