@@ -16,6 +16,8 @@ header:
 
 - [**HatefulMeme challenge**](https://github.com/lowweihong/meme-challenge): In this project, I worked on detecting harmful content in multimodal datasets, inspired by challenges like Meta's Hateful Memes. The key challenge was aligning text and image data to capture subtle, context-sensitive relationships. I tackled this by integrating advanced NLP and computer vision techniques for cohesive analysis.
 
+- **E-commerce product listings classification**: Fine-tuned multimodal models (ALBEF and CLIP), text models (CNN, BERT, fasttext) to classify vast amounts of product listings into appropriate categories, enhancing user experience and streamlining platform operations.
+
 ## Computer Vision
 - **Identidy Card Classification**: Developed an automated image processing system for OCR and face detection using PaddleOCR and EasyOCR. Integrated with Kafka for message handling, the system classifies and validates ID documents, ensuring accurate text extraction and face verification. Implemented utility functions and deployment scripts to streamline document verification workflows.
 
