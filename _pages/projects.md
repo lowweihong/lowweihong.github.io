@@ -25,5 +25,5 @@ header:
 
 ## Misc 
 - Web development: Maintain and deployed centralised crawler management platforms.
-- Web & App crawling projects: I have experience in automated web and app data extraction, such as bicoin, 
+- Web & App crawling projects: I have experience in automated web and app data extraction, such as [币coin](https://apps.apple.com/sg/app/%E5%B8%81coin/id1419528464), [Airbnb](https://medium.com/towards-data-science/how-to-invest-in-the-best-airbnb-rental-property-kuala-lumpur-6bef8cb1477a), and various annoucement pages from Web3 companies.
 
