@@ -2,7 +2,7 @@
 title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: "Aspiring Data Scientist | Georgia Tech Master's (Machine Learning, exp. Dec 2025) | Seeking Data Science Full-Time Opportunities"
+excerpt: "Aspiring Data Scientist \| Georgia Tech Master's (Machine Learning, exp. Dec 2025) \| Seeking Data Science Full-Time Opportunities"
 header:
   overlay_image: /images/wh-cover.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
