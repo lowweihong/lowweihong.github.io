@@ -2,15 +2,18 @@
 title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: 'Data Scientist based in Singapore. Looking for new career opportunities.'
+excerpt: "Aspiring Data Scientist | Georgia Tech Master's (Machine Learning, exp. Dec 2025) | Seeking Data Science Full-Time Opportunities"
 header:
   overlay_image: /images/wh-cover.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+
 # <image src="/images/man-technologist.png" height="30" width="30"> About me
 
-I am a current Master's student at Georgia Tech, Atlanta, and I am eager to participate in research opportunities to enhance my analytical skills and deepen my expertise in Natural Language Processing, particularly its applications in social media.
+As a Master's candidate at Georgia Tech specializing in Machine Learning (expected graduation December 2025), I am passionate about leveraging advanced analytical techniques, particularly in Natural Language Processing (NLP), to solve complex data challenges. I have a keen interest in areas such as social media analytics, predictive modeling, and the practical application of machine learning models to drive impactful business outcomes.
+
+I am a hands-on data scientist and problem-solving enthusiast, always eager to take on new technical challenges that allow me to learn and feed my curiosity. My experience encompasses the full lifecycle of ML applications, including developing and fine-tuning models (like NLLB for multi-language translation), optimizing performance, and managing deployments. I thrive in environments that require quick prototyping and innovative thinking, where I can transform complex data into actionable insights, particularly in predictive modeling and data-driven strategies.
 
 ---
 
@@ -19,21 +22,28 @@ I am a current Master's student at Georgia Tech, Atlanta, and I am eager to part
 ## Previous work experiences
 
 - **Senior Data Scientist** - OKX (Singapore):  
-  At OKX, I focused on rapid prototyping and stakeholder management, building a centralized web crawling platform with Docker to streamline data pipelines. I developed a machine translation system supporting 13 language pairs on Alicloud's PAI platform, reducing vendor costs by 35%. Additionally, I created data-driven dashboards on Alicloud to provide clear insights through effective visualizations.
+  * Focused on rapid prototyping and stakeholder management.
+  * Built a centralized web crawling platform using Docker to streamline data pipelines and enhance data acquisition efficiency.
+  * Developed and deployed a machine translation system on Alicloud's PAI platform, supporting 13 language pairs, which **reduced vendor costs by 35%**.
+  * Created data-driven dashboards on Alicloud, providing clear insights into [e.g., key operational metrics or user behavior trends], enabling [e.g., data-informed decision-making for the product team or optimization of marketing spend].
+
 
 - **NLP Data Scientist** - Shopee (Singapore):  
-  At Shopee, I worked on improving platform integrity by detecting seller behaviors such as the repetitive use of different brand names to artificially boost product visibility. Additionally, I fine-tuned multimodal models (*ALBEF* and *CLIP*), text models (*CNN*, *BERT*, *fasttext*) to classify vast amounts of product listings into appropriate categories, enhancing user experience and streamlining platform operations.
+  * Worked on improving platform integrity by developing systems to detect seller behaviors such as the repetitive use of different brand names to artificially boost product visibility.
+  * Fine-tuned multimodal models (ALBEF and CLIP) and text models (CNN, BERT, fastText) to classify vast amounts of product listings into appropriate categories. This initiative [e.g., improved product categorization accuracy by X%, leading to a Y% increase in user click-through rates on recommended products] and streamlined platform operations by [e.g., reducing manual categorization efforts by Z%].
 
+---
 ## Education
 
-- **Master of Science** - Georgia Tech (Atlanta)
-  Current student in masters of sciences in computer sciences, specialising in machine learning. Expected graduation end of year 2025.
+### Master of Science - Computer Science (Specializing in Machine Learning)
+**Georgia Institute of Technology, Atlanta, GA, USA**
+*Expected Graduation: December 2025*
 
-- **Undergraduate Exchange Program** - Charles University (Prague)
+### Bachelor of Science - Mathematics and Economics
+**Nanyang Technological University, Singapore**
+*Graduated: May 2018*
 
-- **Bachelor of Science** - Nanyang Technological University (Singapore):  
-  I graduated from Nanyang Technological University Singapore in May 2018, majoring in *Mathematics* and *Economics*.
-
+* *Undergraduate Exchange Program - Charles University, Prague*
 ---
 
 ## Programming Skills
@@ -48,7 +58,7 @@ Familiar with: **C/C++, javascript, Docker**
 |----------|--------|
 | English  | Fluent |
 | Mandarin | Fluent |
-| Malay  | Proficient |
+| Malay    | Proficient |
 
 ## CV
 
@@ -59,3 +69,5 @@ Update: 2024/11/06
 ## Contact me
 
 For any inquires, you can reach me via email: **_[lowweihong14@gmail.com](mailto:lowweihong14@gmail.com)_**
+
+Or connect with me on [[LinkedIn Profile URL](https://www.linkedin.com/in/lowweihong/) (Strongly Recommended)]
