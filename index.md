@@ -2,14 +2,14 @@
 title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: "Aspiring Data Scientist \| Georgia Tech MSCS (Machine Learning, exp. Dec 2025)"
+excerpt: 'Aspiring Data Scientist \| Georgia Tech MSCS (Machine Learning, exp. Dec 2025) \| Seeking Data Science Full-Time Opportunities'
 header:
   overlay_image: /images/wh-cover.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 
-## <image src="/images/man-technologist.png" height="30" width="30"> About me
+# <image src="/images/man-technologist.png" height="30" width="30"> About me
 
 ---
 
