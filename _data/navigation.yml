@@ -2,6 +2,8 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "Blog"
+    url: /blog/
   - title: "Blog (Medium)"
     url: https://medium.com/@lowweihong
   - title: "About"
