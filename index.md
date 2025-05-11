@@ -2,7 +2,7 @@
 title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: "Aspiring Data Scientist \| Georgia Tech MSCS (Machine Learning, exp. Dec 2025) \| Seeking Data Science Full-Time Opportunities"
+excerpt: "Aspiring Data Scientist \| Georgia Tech MSCS (Machine Learning, exp. Dec 2025)"
 header:
   overlay_image: /images/wh-cover.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -12,6 +12,7 @@ header:
 ## <image src="/images/man-technologist.png" height="30" width="30"> About me
 
 ---
+
 As a Master's candidate at Georgia Tech specializing in Machine Learning (expected graduation December 2025), I am passionate about leveraging advanced analytical techniques, particularly in Natural Language Processing (NLP), to solve complex data challenges. I have a keen interest in areas such as social media analytics, predictive modeling, and the practical application of machine learning models to drive impactful business outcomes.
 
 
