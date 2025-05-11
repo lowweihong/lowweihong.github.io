@@ -50,7 +50,7 @@ These pillars often intersect, reflecting my approach to leveraging diverse tech
 
 ### Multimodal Machine Learning & AI Solutions
 
-* **[Multimodal Harmful Content Detection](../_posts/2025-05-11_hateful_meme.md)**
+* **[Multimodal Harmful Content Detection]({% post_url 2025-05-11-hateful_meme %})**
     * **Objective:** To detect harmful content in multimodal datasets (text and images), focusing on aligning textual and visual data to capture context-sensitive relationships.
     * **Key Contributions & Methods:**
         * Integrated advanced NLP and computer vision techniques for cohesive multimodal analysis.
