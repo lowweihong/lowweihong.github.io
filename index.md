@@ -44,7 +44,7 @@ As a Master's candidate at Georgia Tech specializing in Machine Learning (expect
 - **Nanyang Technological University, Singapore****
 - Graduated: May 2018
 
-Undergraduate Exchange Program - Charles University, Prague*
+### Undergraduate Exchange Program - Charles University, Prague
 ---
 
 ## Programming Skills
