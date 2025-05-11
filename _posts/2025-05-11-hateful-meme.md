@@ -10,13 +10,13 @@
 
 This project, undertaken as part of Georgia Tech's CS 7643 (Deep Learning), delves into the challenge of identifying hateful content within multimodal memes. We assessed the performance and robustness of newer transformer-based vision-language models on Facebook AI's Hateful Memes Challenge dataset.
 
-**My Role:** Wei Hong Low - Focused on the implementation and fine-tuning of BLIP and BLIP-2 architectures, including preparing the dataloader pipeline and comparing their performance against models like CLIP.
+**My Role:** Focused on the implementation and fine-tuning of BLIP and BLIP-2 architectures, including preparing the dataloader pipeline and comparing their performance against models like CLIP.
 
 ## 1. Introduction & Motivation
 
 Memes are a powerful form of communication on social media, but they can also be vehicles for harmful and hateful content. While humans can often easily discern intent, AI models face significant hurdles due to the complex interplay of text and imagery, along with cultural and contextual nuances.
 
-The Hateful Memes Challenge [4] by Facebook AI aims to benchmark models on this task. Our project was motivated by the shift in vision-language architectures towards more streamlined transformer-based models (like CLIP, BLIP, ViLT) that avoid computationally expensive object detection stages found in many earlier state-of-the-art approaches for this challenge. We aimed to explore these newer models, assess their baseline performance, and investigate their robustness.
+[The Hateful Memes Challenge by Facebook AI](https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/) aims to benchmark models on this task. Our project was motivated by the shift in vision-language architectures towards more streamlined transformer-based models (like CLIP, BLIP, ViLT) that avoid computationally expensive object detection stages found in many earlier state-of-the-art approaches for this challenge. We aimed to explore these newer models, assess their baseline performance, and investigate their robustness.
 
 *Figure 1: Example of a non-hateful meme from the Hateful Memes Challenge Dataset*
 
