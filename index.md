@@ -41,7 +41,7 @@ As a Master's candidate at Georgia Tech specializing in Machine Learning (expect
 - Expected Graduation: December 2025
 
 ### Bachelor of Science - Mathematics and Economics
-- **Nanyang Technological University, Singapore****
+- **Nanyang Technological University, Singapore**
 - Graduated: May 2018
 
 ### Undergraduate Exchange Program - Charles University, Prague
