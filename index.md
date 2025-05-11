@@ -2,22 +2,22 @@
 title: 'Low Wei Hong'
 layout: single
 author_profile: true
-excerpt: "Aspiring Data Scientist \| Georgia Tech Master's (Machine Learning, exp. Dec 2025) \| Seeking Data Science Full-Time Opportunities"
+excerpt: "Aspiring Data Scientist \| Georgia Tech MSCS (Machine Learning, exp. Dec 2025) \| Seeking Data Science Full-Time Opportunities"
 header:
   overlay_image: /images/wh-cover.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 
-# <image src="/images/man-technologist.png" height="30" width="30"> About me
+## <image src="/images/man-technologist.png" height="30" width="30"> About me
 
+---
 As a Master's candidate at Georgia Tech specializing in Machine Learning (expected graduation December 2025), I am passionate about leveraging advanced analytical techniques, particularly in Natural Language Processing (NLP), to solve complex data challenges. I have a keen interest in areas such as social media analytics, predictive modeling, and the practical application of machine learning models to drive impactful business outcomes.
 
-I am a hands-on data scientist and problem-solving enthusiast, always eager to take on new technical challenges that allow me to learn and feed my curiosity. My experience encompasses the full lifecycle of ML applications, including developing and fine-tuning models (like NLLB for multi-language translation), optimizing performance, and managing deployments. I thrive in environments that require quick prototyping and innovative thinking, where I can transform complex data into actionable insights, particularly in predictive modeling and data-driven strategies.
 
 ---
 
-*As a hands-on data scientist and problem-solving enthusiast, I am always eager to take on new technical challenges that allow me to learn and feed my curiosity. I have experience in NLP and machine learning, including developing and fine-tuning models, optimizing performance, and managing the lifecycle of ML applications. I've worked on projects involving multi-language translation using models like NLLB. I enjoy environments that require quick prototyping and innovative thinking, where I can transform complex data into practical insights, particularly in predictive modeling and data-driven strategies.*
+*I am a hands-on data scientist and problem-solving enthusiast, always eager to take on new technical challenges that allow me to learn and feed my curiosity. My experience encompasses the full lifecycle of ML applications, including developing and fine-tuning models (like NLLB for multi-language translation), optimizing performance, and managing deployments. I thrive in environments that require quick prototyping and innovative thinking, where I can transform complex data into actionable insights, particularly in predictive modeling and data-driven strategies.*
 
 ## Previous work experiences
 
