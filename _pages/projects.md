@@ -98,7 +98,7 @@ These pillars often intersect, reflecting my approach to leveraging diverse tech
         * **Data Preprocessing:** Implemented comprehensive cleaning of raw tweets, including language filtering, removal of URLs/mentions/hashtags, and tokenization.
         * **Interactive Dashboard (D3.js):** The project resulted in a dashboard featuring a sentiment line chart, stacked area chart, heatmap for temporal patterns, and a word cloud for thematic exploration.
     * **Technologies/Tools:** Python, CryptoBERT, BERTopic, Sentence Transformers, UMAP, HDBSCAN, KeyBERT, Llama 3.1, Pandas, D3.js.
-    * **Link to Project GitHub**: https://github.com/lowweihong/CSE6242-SocialAnalyticsDashboard/tree/main
+    * **Link to Project GitHub**: [github](https://github.com/lowweihong/CSE6242-SocialAnalyticsDashboard/tree/main)
     * *Screenshot*
       ![demo](../images/bitcoin.png)
 
@@ -123,7 +123,7 @@ These pillars often intersect, reflecting my approach to leveraging diverse tech
         * Set up and maintained the necessary infrastructure components including master/worker nodes, MongoDB for metadata, and ensured proper network configuration for accessing public internet resources.
         * Onboarded and managed numerous web crawlers (Python, Scrapy, Selenium) onto the platform, standardizing deployment and scheduling processes.
         * Established data output formats (JSON) for seamless integration with downstream systems like Kafka and data warehouses.
-    * **Technologies/Tools:** Crawlab, Docker, Python, Scrapy, Selenium, MongoDB, Bash scripting, Alicloud.
+    * **Technologies/Tools:** Crawlab, Docker, Python, Scrapy, pyppeteer, Playwright, Selenium, MongoDB, Bash scripting, Alicloud.
     * *Screenshot*
       ![demo](../images/demo-crawlab-1.png)
 
