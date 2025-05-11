@@ -54,7 +54,7 @@ Our methodology involved several stages:
 * **Model Performance:**
     * CLIP generally outperformed BLIP and ViLT on the Hateful Memes Challenge dataset. This was attributed to CLIP's larger and more diverse training data and its tailored representations for multimodal classification.
     * Fine-tuning significantly improved performance over zero-shot capabilities. Our fine-tuned CLIP, even without extensive architectural changes, achieved competitive results (AUC 0.774, Acc 70.7% on test-unseen) compared to earlier benchmarks.
-    * Architectural modifications, such as those inspired by Hate-CLIPper [6] and our explorations with different fusion methods (e.g., batch matrix multiplication for CLIP), showed promise in further boosting performance. Our best model, based on Hate-CLIPper, achieved an AUC of 0.824 and accuracy of 75.6% on the test-unseen set.
+    * Architectural modifications, such as those inspired by Hate-CLIPper and our explorations with different fusion methods (e.g., batch matrix multiplication for CLIP), showed promise in further boosting performance. Our best model, based on Hate-CLIPper, achieved an AUC of 0.824 and accuracy of 75.6% on the test-unseen set.
 
 * **Adversarial Robustness:**
     * Models were vulnerable to adversarial attacks. Combined attacks on both image and text modalities were most effective in degrading performance (e.g., PGD + unicode replacement led to an 18.44% success rate and a 10.2% drop in AUC on the test-unseen set for the CLIP (Concat) model).
