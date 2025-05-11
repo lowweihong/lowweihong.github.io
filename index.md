@@ -37,18 +37,14 @@ As a Master's candidate at Georgia Tech specializing in Machine Learning (expect
 ## Education
 
 ### Master of Science - Computer Science (Specializing in Machine Learning)
-
-**Georgia Institute of Technology, Atlanta, GA, USA**
-
-*Expected Graduation: December 2025*
+- **Georgia Institute of Technology, Atlanta, GA, USA**
+- Expected Graduation: December 2025
 
 ### Bachelor of Science - Mathematics and Economics
+- **Nanyang Technological University, Singapore****
+- Graduated: May 2018
 
-**Nanyang Technological University, Singapore**
-
-*Graduated: May 2018*
-
-*Undergraduate Exchange Program - Charles University, Prague*
+Undergraduate Exchange Program - Charles University, Prague*
 ---
 
 ## Programming Skills
