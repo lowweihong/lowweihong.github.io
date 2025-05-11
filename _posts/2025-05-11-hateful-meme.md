@@ -4,8 +4,6 @@
 
 **Tags:** Vision-Language Models, Hateful Memes, Adversarial Robustness, Deep Learning, CLIP, BLIP, BLIP-2  
 
-**Estimated Reading Time:** 8 minutes  
-
 ---  
 
 This project, undertaken as part of Georgia Tech's CS 7643 (Deep Learning), delves into the challenge of identifying hateful content within multimodal memes. We assessed the performance and robustness of newer transformer-based vision-language models on Facebook AI's Hateful Memes Challenge dataset.
