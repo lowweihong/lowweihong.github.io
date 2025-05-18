@@ -78,7 +78,7 @@ These pillars often intersect, reflecting my approach to leveraging diverse tech
         * Implemented access control mechanisms (`perm` mapping) and owner-restricted fund withdrawal.
         * Provided functions to query payment counts, details, and history for users.
     * **Technologies/Tools:** Solidity (`pragma solidity >= 0.5.0 < 0.6.0`), Ethereum Virtual Machine (EVM).
-    * **Code:** [GitHub Repository for ShibaPayment Contract](https://github.com/lowweihong/meme-challenge)
+    * **Code:** [GitHub Repository for ShibaPayment Contract](https://github.com/lowweihong/meme-merchant-contract)
     * *Screenshot*
       ![demo](../images/meme-merchant.png)
 
