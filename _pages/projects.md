@@ -12,7 +12,7 @@ header:
 
 My projects are driven by a passion for extracting meaningful insights from diverse data sources, with a particular focus on Natural Language Processing, social media analytics, and the application of multimodal learning. I categorize my work into several key pillars that reflect these interests:
 
-* **[NLP for Social & Textual Insights](#nlp--social-media-analytics-dashboards):** Developing solutions to understand and process human language. My work on the **Social Analytics Dashboard for Bitcoin Discussions** exemplifies this, where we applied advanced sentiment analysis (CryptoBERT) and topic modeling (BERTopic with Llama) to decipher trends in social media.
+* **[NLP for Social & Textual Insights](#nlp-for-social--textual-insights):** Developing solutions to understand and process human language. My work on the **Social Analytics Dashboard for Bitcoin Discussions** exemplifies this, where we applied advanced sentiment analysis (CryptoBERT) and topic modeling (BERTopic with Llama) to decipher trends in social media.
 * **[Multimodal Machine Learning & AI Solutions](#multimodal-machine-learning--ai-solutions):** Building AI systems that integrate and interpret information from multiple modalities (e.g., text and images). My project on **Multimodal Harmful Content Detection** is a key example, focusing on developing models to align visual and textual data for identifying subtle, context-sensitive harmful content. This expertise in building and fine-tuning multimodal models was also applicable to the classification of vast amounts of e-commerce product listings at Shopee using models like ALBEF and CLIP.
 * **[Blockchain & Smart Contracts](#blockchain--smart-contracts):** Exploring the practical application of data science and smart contracts in emerging ecosystems, including payment systems and trend analysis in the dApp space.
 * **[Dashboards & Visualizations](#dashboards--visualizations):** Creating tools that translate complex data into actionable insights.
@@ -22,7 +22,7 @@ These pillars often intersect, reflecting my approach to leveraging diverse tech
 
 ---
 
-### NLP & Social Media Analytics Dashboards
+### NLP for Social & Textual Insights
 
 * **Multilingual Machine Translation System**
     * **Objective:** Developed a robust machine translation model capable of handling multiple target languages efficiently.
