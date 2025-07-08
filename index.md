@@ -63,9 +63,9 @@ Familiar with: **C/C++, javascript, Docker**
 
 ## CV
 
-Find attached the PDF version of my CVs:  [CV]({{ site.url }}/download/CV_english.pdf)  
+Find attached the PDF version of my resume:  [resume]({{ site.url }}/download/resume.pdf)  
 
-Update: 2025/07/07
+Update: 2025/07/08
 
 ## Contact me
 
