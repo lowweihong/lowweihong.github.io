@@ -65,7 +65,7 @@ Familiar with: **C/C++, javascript, Docker**
 
 Find attached the PDF version of my CVs:  [CV]({{ site.url }}/download/CV_english.pdf)  
 
-Update: 2025/06/30
+Update: 2025/07/07
 
 ## Contact me
 
